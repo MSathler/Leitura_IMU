@@ -10,13 +10,13 @@ Código para leitura do txt, com a adição dos filtros de média móvel e gauss
 
 Pacotes necessários:
 
-Scipy:
+- Scipy:
 
-    pip install scipy
+        pip install scipy
     
-Matplotlib:
+- Matplotlib:
 
-    pip install matplotlib
+        pip install matplotlib
     
 ## Rodando
 
